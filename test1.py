@@ -1,1 +1,1 @@
-print ("This is a recap exercise");
+print("This is a recap exercise");
